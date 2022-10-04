@@ -8,4 +8,4 @@
 
 [Contact](https://notbock.github.io/contact.html)
 
-![another image](https://i.imgur.com/CpPHlTj.jpeg)
+<! --- ![another image](https://i.imgur.com/CpPHlTj.jpeg)>
