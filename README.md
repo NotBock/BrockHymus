@@ -6,4 +6,4 @@
 
 [About] (https://www.bockexe.weebly.com)
 
-[Contact] (notbock.github.io/contact.html)
+[Contact] (https://www.notbock.github.io/contact.html)
