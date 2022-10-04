@@ -8,4 +8,4 @@
 
 [Contact](https://notbock.github.io/contact.html)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/QcjGXPpjq4s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcjGXPpjq4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
